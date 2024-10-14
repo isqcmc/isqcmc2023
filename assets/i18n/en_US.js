@@ -1,0 +1,1 @@
+window.TRANSLATIONS = {"indico":{"":{"domain":"indico","lang":"en_US"}},"payment_manual":{"":{"domain":"payment_manual","lang":"en_US"}},"payment_paypal":{"":{"domain":"payment_paypal","lang":"en_US"}},"vc_zoom":{"":{"domain":"vc_zoom","lang":"en_US"}}};
